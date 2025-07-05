@@ -30,10 +30,6 @@ I'm a passionate **Backend Developer** with over **3 years of experience** build
 - 💼 Backend/Full Stack roles with Node.js and scalable infrastructure  
 - 🧠 Knowledge sharing and tech discussions
 
-### 📫 How to reach me:
-- 📧 Email: [your email here]
-- 🌐 LinkedIn: [your LinkedIn URL]
-- 🧑‍💻 Portfolio: [link to portfolio or blog if available]
 
 ---
 
