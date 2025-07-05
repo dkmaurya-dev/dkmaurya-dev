@@ -3,9 +3,10 @@
 I'm a passionate **Backend Developer** with over **3 years of experience** building scalable server-side applications using **Node.js**, **Express.js**, **GraphQL**, and **RESTful APIs**. I love writing clean, efficient code and designing backend architectures that scale.
 
 ### 🚀 Tech Stack & Tools
-- **Languages**: JavaScript, TypeScript, SQL
+- **Languages**: JavaScript, TypeScript, SQL,Python,Php,GraphQL
 - **Backend**: Node.js, Express.js, NestJS
-- **Database**: MySQL, MongoDB, PostgreSQL
+- **Frontend**: HTML,CSS,Material UI,React.js,Redux
+- **Database**: MySQL, MongoDB, Redis
 - **ORM/ODM**: Prisma, Sequelize, TypeORM, Mongoose
 - **API**: REST, GraphQL
 - **Authentication**: JWT, OAuth
