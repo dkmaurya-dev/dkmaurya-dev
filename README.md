@@ -11,6 +11,12 @@ I'm a passionate **Backend Developer** with over **3 years of experience** build
 - **Authentication**: JWT, OAuth
 - **DevOps**: Docker, AWS (EC2, S3, IAM, Lambda)
 - **Tools**: Git, Postman, Swagger, Redis, WebSocket, Socket.io
+### 🧰 Tech Stack
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
 ### 🛠️ Recent Work
 - Built real-time web applications with WebSocket and Socket.io  
